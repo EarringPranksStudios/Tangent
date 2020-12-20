@@ -1,4 +1,4 @@
-<div style="text-align:center"><img src="Content/Textures/TangentLogo025x.png" /></div>
+<div style="text-align:center"><img src="Media/Images/TangentLogo025x.png" /></div>
 
 A keyframe animation tool for game developers. 
 

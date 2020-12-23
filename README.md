@@ -4,6 +4,7 @@ A keyframe animation tool for game developers.
 
 [![Build Status](https://dev.azure.com/EarringPranks/Tangent/_apis/build/status/EarringPranksStudios.SpriteAnimator?branchName=dev)](https://dev.azure.com/EarringPranks/Tangent/_build/latest?definitionId=8&branchName=dev)
 
+#### Find the project [here](https://maraudergames.itch.io/tangent)
 #### Have Questions? [View the wiki](https://github.com/EarringPranksStudios/Tangent/wiki)
 
 ## Features
